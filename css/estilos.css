@@ -1,0 +1,435 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* ----------------------------------index-------------------------------------- */
+.container-fluid h2{
+
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: beige;
+    
+}
+
+.container-fluid p{
+
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+
+}
+
+.vidIni iframe{
+
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.imgIni img{
+
+    width: 100%;
+    
+
+}
+
+.git img {
+
+    width: 100%;
+    height: 500px; 
+    object-fit: contain ;
+    
+
+}
+
+.bat img {
+
+    width: 100%;
+    height: 500px; 
+    object-fit: contain ;
+    
+}
+
+.baj img{
+
+    width: 100%;
+    height: 500px; 
+    object-fit: contain ;
+    
+
+}
+
+/* ----------------------------------footer-------------------------------------- */
+.fot .container-fluid{
+
+    width: 100%;
+    height: 300px;
+
+}
+
+.redes{
+
+    font-size: 60px;
+    width: 100%;
+    height: 300px;
+    text-align:center;
+
+}
+
+.logos{
+
+    color: black;
+
+    -webkit-transition: 1s linear;
+    transition: 1s linear;
+
+    
+}
+
+.logos:hover{
+    
+    color: rgba(25, 25, 221, 0.863); 
+    -webkit-transform: skewX(-10deg);
+    transform: skewX(-10deg);
+
+}
+
+.mapa{
+
+    width: 50%;
+    height: 100px; 
+
+}
+
+.mapa iframe{
+    
+    width: 100%;
+    height: 250px;
+    
+    
+}
+/* ----------------------------- nosotros carousel ----------------------------------- */
+
+
+.carousel-inner{
+
+    width: 100%;
+    height: 600px;
+
+}
+
+.carousel-item img{
+
+    width: 100%;
+    height: 600px;
+    object-fit: contain;
+}
+
+.carousel-control-prev-icon{
+
+    background-color: rgba(0, 0, 0, 0.466) ;
+
+}
+.carousel-control-next-icon{
+
+    background-color: rgba(0, 0, 0, 0.466) ;
+}
+
+.carousel-indicators{
+    background-color: rgba(0, 0, 0, 0.466);
+
+}
+
+/* ----------------------------- nosotros ----------------------------------- */
+
+.container-fluid .nos{
+
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.nos1{
+
+    width: 100%;
+    height: 400px;
+    /* background-color: aqua; */
+    /* border: 2px solid black; */
+}
+
+.nos2{
+
+    width: 100%;
+    height: 400px;
+    /* background-color: aqua; */
+    /* border: 2px solid black; */
+
+}
+
+.nos2 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+
+.nos3{
+
+    width: 100%;
+    height: 400px;
+    /* background-color: aqua; */
+    /* border: 2px solid black; */
+}
+
+.nos4{
+
+    width: 100%;
+    height: 400px;
+    /* background-color: aqua; */
+    /* border: 2px solid black; */
+}
+
+.nos4 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+
+/* ----------------------------- equipos ----------------------------------- */
+
+.bandaNos{
+
+    width: 100%;
+    height: 600px; 
+
+}
+
+.bandaNos img{
+
+    width: 100%;
+    height: 600px; 
+    object-fit: cover;
+
+}
+
+.equiNos{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    font-size: 35px;
+}
+
+.instNos{
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+/* -----------------guitarras------------------------ */
+
+.guiNos1{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color: aqua; */
+    
+}
+
+.guiNos1 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+.guiNos2{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color:aquamarine; */
+    
+}
+
+.guiNos2 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+
+}
+
+.guiNos3{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color:blanchedalmond; */
+}
+
+.guiNos3 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+
+}
+
+.guiNos4{
+
+    width: 100%;
+    height: 400px; 
+    /* background-color: brown; */
+
+}
+
+.guiNos4 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+/* --------------------------baterias---------------- */
+
+.bateNos1{
+
+    width: 100%;
+    height: 400px; 
+    
+}
+
+.bateNos1 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+.bateNos2{
+
+    width: 100%;
+    height: 400px; 
+    
+}
+
+.bateNos2 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+.bateNos3{
+
+    width: 100%;
+    height: 400px; 
+    
+}
+
+.bateNos3 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+.bateNos4{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color:blanchedalmond; */
+}
+
+.bateNos4 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+/* ---------------------bajos---------------------------- */
+
+.bajos1{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color:blanchedalmond; */
+}
+.bajos1 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+.bajos2{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color:blanchedalmond; */
+}
+
+.bajos2 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+.bajos3{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color:blanchedalmond; */
+}
+.bajos3 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+}
+
+.bajos4{
+
+    width: 100%;
+    height: 400px; 
+    
+    /* background-color:blanchedalmond; */
+}
+
+.bajos4 img{
+
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid rgb(179, 179, 71)
+
+}
+
